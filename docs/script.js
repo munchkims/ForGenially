@@ -6,7 +6,7 @@ const colors = {
   polish: ["czerwony", "niebieski", "czarny", "biały", "zielony", "pomarańczowy", "cyjan", "żółty", "różowy"],
   turkish: ["kırmızı", "mavi", "siyah", "beyaz", "yeşil", "turuncu", "camgöbeği", "sarı", "pembe"],
   indonesian: ["merah", "biru", "hitam", "putih", "hijau", "oranye", "sian", "kuning", "merah muda"],
-  portuguese: ["red", "blue", "black", "white", "green", "orange", "cyan", "yellow", "pink"]
+  portuguese: ["vermelho", "azul", "preto", "branco", "verde", "laranja", "ciano", "amarelo", "rosa"]
 };
 
 let selectedColors = colors.english; // default to English
