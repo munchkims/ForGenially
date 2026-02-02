@@ -5,7 +5,8 @@ const colors = {
   italian: ["rosso", "blu", "nero", "bianco", "verde", "arancione", "ciano", "giallo", "rosa"],
   polish: ["czerwony", "niebieski", "czarny", "biały", "zielony", "pomarańczowy", "cyjan", "żółty", "różowy"],
   turkish: ["kırmızı", "mavi", "siyah", "beyaz", "yeşil", "turuncu", "camgöbeği", "sarı", "pembe"],
-  indonesian: ["merah", "biru", "hitam", "putih", "hijau", "oranye", "sian", "kuning", "merah muda"]
+  indonesian: ["merah", "biru", "hitam", "putih", "hijau", "oranye", "sian", "kuning", "merah muda"],
+  portuguese: ["red", "blue", "black", "white", "green", "orange", "cyan", "yellow", "pink"]
 };
 
 let selectedColors = colors.english; // default to English
